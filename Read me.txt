@@ -1,0 +1,37 @@
+Eclipse Version: Oxygen.3 Release (4.7.3)
+Java SE - 1.8
+Junit for Unit test
+
+
+
+Run the MediHealthServiceLauncher.java to see the output on the console.
+
+MediHealth\src\main\java\com\medihealth\launcher\MediHealthServiceLauncher.java
+
+
+The output Sample is printed below from the console. 
+
+--------------------*****------------------
+Patient Name: Mithun Savla
+Patient Age: 75
+Patient Insured: Yes
+---------
+Service	Price	Price After Discount
+Blood Test	£78.0 £6.63
+Diagnosis	£60.0 £6.0
+ECG	£200.4 £20.04
+X-Ray	£150.0 £15.0
+Vaccine	£42.5 £4.25
+Total	£530.9	£51.92
+--------------------*****------------------
+Patient Name: Jason Stratham
+Patient Age: 50
+Patient Insured: Yes
+---------
+Service	Price	Price After Discount
+Blood Test	£78.0 £66.3
+Diagnosis	£60.0 £60.0
+ECG	£200.4 £200.4
+X-Ray	£150.0 £150.0
+Vaccine	£87.5 £87.5
+Total	£575.9	£564.2
